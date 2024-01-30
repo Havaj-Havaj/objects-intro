@@ -118,7 +118,7 @@ const firstPerson = {
 };
 
 console.log(correctName(firstPerson)); 
-// в консоле должно быть 'Alvi'
+// в консоле должно быть 'Adam'
 
 // ----------------------------- //
 
