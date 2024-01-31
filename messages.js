@@ -18,7 +18,7 @@ let messages = [
     author: "Maga",
     text: "Good morning",
     type: "chuvol",
-    time: "13:00",
+    time: "14:00",
   },
 ];
 
